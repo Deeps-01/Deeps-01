@@ -1,6 +1,8 @@
 # Relentlessly exploring technology 
   
   ![](https://activity-graph.herokuapp.com/graph?username=Deeps-01&theme=react-dark&hide_border=true&area=true)
+  [![Deepan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Deeps-01)](https://github.com/Deeps-01/github-readme-activity-graph)
+
   
   <h3 align="left"> Presence in  social media platforms :</h3>
 <p align="left">
